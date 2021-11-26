@@ -1,16 +1,16 @@
-# Hi! 👋
+# Hi! Welcome to my profile 👋
 __I'm Vincent Vidot  
 I am your favorite Web Developer 💻__
 
 📍 Strasbourg, France
 
+
+
 ---
 <details>
-  <summary>Some statistics about me 💕(because we love stats)</summary>
+  <summary>Some statistics about me 💕</summary>
   <br>  
   <br>  
-  
-  
   <p align="center"><strong>Wakatime Stats over the Last 7 Days</strong></p>
     <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" alt="Linkedin"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=vincentvdt&layout=compact&hide_title=true&hide_border=true&theme=cobalt"></a>
@@ -32,7 +32,12 @@ I am your favorite Web Developer 💻__
   </p>
 
   <p align="center">
+		
+<img src="https://i.imgur.com/luTFD6L.gif" style="max-width: 100%;">
+<br />
     <a href="https://visitor-badge.glitch.me/">
       <img align="center" src="https://page-views.glitch.me/badge?page_id=vincentvdt.51759317">
     </a>
   </p>
+  
+  
