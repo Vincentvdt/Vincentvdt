@@ -1,4 +1,4 @@
-# Hi! Welcome to my profile 👋
+# Bonjour / Hi! Welcome to my profile 👋
 __I'm Vincent Vidot  
 I am your favorite Web Developer 💻__
 
