@@ -1,6 +1,6 @@
 # Bonjour / Hi! Welcome to my profile 👋
 __I'm Vincent Vidot  
-I am your favorite Web Developer 💻__
+I'm here for you as a Web Developer 💻__
 
 📍 Strasbourg, France
 
