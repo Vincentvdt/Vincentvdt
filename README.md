@@ -88,7 +88,7 @@ __Version Control__ <br/>
 <p align="center">
    <img src="https://i.imgur.com/luTFD6L.gif" style="max-width: 100%;">
    <br />
-   <a href="https://visitor-badge.glitch.me/">
-   <img align="center" src="https://page-views.glitch.me/badge?page_id=vincentvdt.51759317">
-   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=vincentvdt&color=blueviolet&style=flat-square)
+
