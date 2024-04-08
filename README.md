@@ -76,13 +76,13 @@ __Operating System__ <br/>
    <br>
 </details>
 <p align="center">
-   <a href="https://www.linkedin.com/in/vincentvdt" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/vincentvdt" alt="Linkedin" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
-   <a href="mailto:vincent.vidot3@gmail.com" alt="Contact me">
+   <a href="mailto:vincent.vidot3@gmail.com" alt="Contact me" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="https://discordapp.com/users/177419023418392577/" alt="Contact me">
+   <a href="https://discordapp.com/users/177419023418392577/" alt="Discord" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
    </a>
 </p>
