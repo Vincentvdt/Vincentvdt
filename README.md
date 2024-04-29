@@ -1,5 +1,5 @@
 # Bonjour / Hi! Welcome to my profile 👋
-__I'm Vincent Vidot  
+__I'm Vincent  
 I'm here for you as a Web Developer 💻__
 
 📍 Strasbourg, France
