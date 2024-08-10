@@ -82,7 +82,7 @@ __Operating System__ <br/>
    <a href="mailto:vincent.vidot3@gmail.com" alt="Contact me" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="https://discordapp.com/users/177419023418392577/" alt="Discord" target="_blank">
+   <a href="https://discordapp.com/users/1256830931080319047/" alt="Discord" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
    </a>
 </p>
