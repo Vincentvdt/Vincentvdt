@@ -15,7 +15,7 @@ Still learning. Still messing around.
 
 ## STACK
 
-- Next.js (App Router)  
+- Next.js
 - React / TypeScript  
 - TailwindCSS  
 - Zustand  
