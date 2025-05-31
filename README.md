@@ -1,8 +1,11 @@
-# VINCENT VIDOT
+# VINCENT VIDOT (I'm of
 
 **Frontend Developer**  
 📧 vincent.vidot3@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/vincentvdt) • [Portfolio](https://vincentvdt.fr) • [Malt](https://www.malt.fr/profile/vincentvdt)
+
+_I'm currently taking a few days off, not super active right now,  
+but feel free to reach out by email, I'll still get back to you!_
 
 ---
 
