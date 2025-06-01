@@ -1,4 +1,4 @@
-# VINCENT VIDOT (I'm of
+# VINCENT VIDOT
 
 **Frontend Developer**  
 📧 vincent.vidot3@gmail.com  
